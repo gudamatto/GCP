@@ -12,10 +12,14 @@ Se você encontrar alguma falha ou vulnerabilidade, por favor, comunique-nos ime
 ==================================================================================
 
 
--- 2025-07-18 Add: Event_Data_Generation.sql
+-- 2025-07-18 Add:
+
+Event_Data_Generation.sql
 Data generator for streaming data simulation (API Event: JSON) Bigquery - GCP
 
--- 2025-07-18 Add: Export_Event_Cloud_Spanner.sql
+-- 2025-07-18 Add:
+
+Export_Event_Cloud_Spanner.sql
 Job Export event Cloud Spanner (yaml) - GCP Google 
 
 ================================================
